@@ -1,0 +1,44 @@
+.box {
+  display: flex;
+  flex-direction: row;
+  background-color: DodgerBlue;
+
+}
+.box > section {
+  background-color: grey;
+  margin: 10px;
+  font-size: 20px;
+  width: 100%;
+}
+
+section {
+	border-radius: 25px;
+	color: white;
+	padding: 5px;
+}
+}
+input {
+	color: #000000;
+}
+body{
+	background-color: #FFA500;
+}.btn {
+	font-size: 20px; 
+	border-radius: 25px;
+	color: white;
+	background-color: green;
+}
+h2, h1 {
+	font-weight: bold;
+	font-family: cursive;
+}
+h2 {
+	color: black;
+}
+
+img {
+	border-radius: 100px;
+}
+p, li {
+	font-family: Arial, sans-serif;
+}
